@@ -1,4 +1,6 @@
-#Rechess It
+# Rechess It
+
+![Logo Rechess it 300px](https://github.com/user-attachments/assets/14a26bc7-6dcc-4236-a126-c131ae9af678)
 
 
 ## ¿Qué es?
