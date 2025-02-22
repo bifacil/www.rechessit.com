@@ -22,7 +22,7 @@ El juego es muy sencillo:
 
 Es más sencillo de lo que parece. Se trata de repetir los mismos movimientos en cada partida. El bot irá moviendo diferente, por lo que irás descubriendo nuevas líneas de manera natural.
 
-La aplicación te ayuda informándote de los mejores movimientosen cada nueva posición.
+La aplicación te ayuda informándote de los mejores movimientos en cada nueva posición.
 
 
 
