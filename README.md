@@ -7,7 +7,7 @@
 
 RechessIt es un divertido juego para aprender aperturas de ajedrez.
 
-Se trata de un *side project* de Pau Urquizu. El proyecto se enucentra en desarrollo activo y, si el proyecto despierta cierto interés, seguiremos mejorándolo y añadiendo nuevas funcionalidades/características. Se agradecen todos los comentarios, propuestas o informe de errores. 
+Se trata de un *side project* de Pau Urquizu. El proyecto se enucentra en desarrollo activo y, si el proyecto despierta cierto interés, seguiremos mejorándolo y añadiendo nuevas funcionalidades/características. Se agradecen todos los [comentarios, propuestas o informe de errores](https://github.com/bifacil/www.rechessit.com/issues). 
 
 ## ¿Cómo se juega?
 
