@@ -20,7 +20,7 @@ El juego es muy sencillo:
 - El bot puede mover diferente en cada partida, pero siempre realizará movimientos comunes.
 - El juegador debe memorizar los movimientos que realiza, pues en las siguientes partidas deberá realizar el mismo movimiento siempre que se encuentra en la misma posición.
 
-Es más sencillo de lo que parece. Se trata de repetir los mismos movimientos en cada partida. El bot irá moviendo diferente, por lo que irás descubriendo nuevas líneas de manera nartural.
+Es más sencillo de lo que parece. Se trata de repetir los mismos movimientos en cada partida. El bot irá moviendo diferente, por lo que irás descubriendo nuevas líneas de manera natural.
 
 La aplicación te ayuda informándote de los mejores movimientosen cada nueva posición.
 
